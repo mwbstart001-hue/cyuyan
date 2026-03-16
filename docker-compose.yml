@@ -1,0 +1,4 @@
+services:
+  yuyi:
+    build: .
+    container_name: yuyi_app

@@ -1,0 +1,7 @@
+main()
+{
+int i;
+var a:int
+i = 10;
+a = i;
+}
