@@ -1,0 +1,23 @@
+void main()
+{
+    var i:int;
+    var j:int;
+    var sum:int;
+    
+    i = 10;
+    j = 20;
+    sum = i + j * 2;
+    
+    if (sum > 30) {
+        i = i + 1;
+    } else {
+        j = j - 1;
+    }
+    
+    while (i < 100) {
+        i = i * 2;
+        sum = sum + i;
+    }
+    
+    return sum;
+}

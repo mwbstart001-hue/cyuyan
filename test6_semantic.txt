@@ -1,0 +1,8 @@
+void main()
+{
+    var a:int;
+    var b:int;
+    a = 10;
+    b = a + c;  // c未定义
+    return b;
+}
