@@ -1,0 +1,31 @@
+<VOID>
+<ID, main>
+<LP, (>
+<RP, )>
+<LC, {>
+<TYPE>
+<ID, x>
+<SEMI, ;>
+<ID, x>
+<ASSIGN, =>
+<INT, 5>
+<SEMI, ;>
+<TYPE>
+<ID, y>
+<SEMI, ;>
+<ID, y>
+<ASSIGN, =>
+<ID, x>
+<PLUS, +>
+<INT, 10>
+<SEMI, ;>
+<TYPE>
+<ID, z>
+<SEMI, ;>
+<ID, z>
+<ASSIGN, =>
+<ID, x>
+<MUL, *>
+<ID, y>
+<SEMI, ;>
+<RC, }>
